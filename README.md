@@ -1,2 +1,2 @@
 # GGH
-GGH experimental implementation
+GGH didactical implementation
